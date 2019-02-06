@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MagicaLock</string>
+    <string name="place_your_sticker_near_the_lock">Place Your Sticker Near The Lock</string>
+    <string name="title_activity_main_menu">mainMenu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="please_place_your_phone_near_the_lock">Please Place Your Phone Near The Lock</string>
+    <string name="place_your_phone_near_the_lock">Place Your Phone Near The Lock</string>
+    <string name="string_place_your_phone_near_the_lock"/>
+    <string name="place_your_phone_near_the_lock">Place Your Phone Near The Lock</string>
+    <string name="menu_button">Menu Button</string>
+</resources>
